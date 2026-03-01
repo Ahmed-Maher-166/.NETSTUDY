@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\Conditional\bin\Debug\net9.0\Conditional.exe
+C:\Users\ahmed\source\repos\Conditional\bin\Debug\net9.0\Conditional.deps.json
+C:\Users\ahmed\source\repos\Conditional\bin\Debug\net9.0\Conditional.runtimeconfig.json
+C:\Users\ahmed\source\repos\Conditional\bin\Debug\net9.0\Conditional.dll
+C:\Users\ahmed\source\repos\Conditional\bin\Debug\net9.0\Conditional.pdb
+C:\Users\ahmed\source\repos\Conditional\obj\Debug\net9.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Conditional\obj\Debug\net9.0\Conditional.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Conditional\obj\Debug\net9.0\Conditional.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Conditional\obj\Debug\net9.0\Conditional.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Conditional\obj\Debug\net9.0\Conditional.dll
+C:\Users\ahmed\source\repos\Conditional\obj\Debug\net9.0\refint\Conditional.dll
+C:\Users\ahmed\source\repos\Conditional\obj\Debug\net9.0\Conditional.pdb
+C:\Users\ahmed\source\repos\Conditional\obj\Debug\net9.0\Conditional.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\Conditional\obj\Debug\net9.0\ref\Conditional.dll

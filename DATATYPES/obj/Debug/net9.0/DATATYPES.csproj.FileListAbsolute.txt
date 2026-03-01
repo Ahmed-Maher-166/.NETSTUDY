@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\DATATYPES\bin\Debug\net9.0\DATATYPES.exe
+C:\Users\ahmed\source\repos\DATATYPES\bin\Debug\net9.0\DATATYPES.deps.json
+C:\Users\ahmed\source\repos\DATATYPES\bin\Debug\net9.0\DATATYPES.runtimeconfig.json
+C:\Users\ahmed\source\repos\DATATYPES\bin\Debug\net9.0\DATATYPES.dll
+C:\Users\ahmed\source\repos\DATATYPES\bin\Debug\net9.0\DATATYPES.pdb
+C:\Users\ahmed\source\repos\DATATYPES\obj\Debug\net9.0\DATATYPES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\DATATYPES\obj\Debug\net9.0\DATATYPES.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\DATATYPES\obj\Debug\net9.0\DATATYPES.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\DATATYPES\obj\Debug\net9.0\DATATYPES.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\DATATYPES\obj\Debug\net9.0\DATATYPES.dll
+C:\Users\ahmed\source\repos\DATATYPES\obj\Debug\net9.0\refint\DATATYPES.dll
+C:\Users\ahmed\source\repos\DATATYPES\obj\Debug\net9.0\DATATYPES.pdb
+C:\Users\ahmed\source\repos\DATATYPES\obj\Debug\net9.0\DATATYPES.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\DATATYPES\obj\Debug\net9.0\ref\DATATYPES.dll

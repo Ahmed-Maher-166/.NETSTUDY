@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Casting_StringFormatiing_Converting/1.0.0": {
+        "runtime": {
+          "Casting_StringFormatiing_Converting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Casting_StringFormatiing_Converting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

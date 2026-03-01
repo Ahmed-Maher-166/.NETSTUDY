@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\obj\Debug\net9.0\Casting_StringFormatiing_Converting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\obj\Debug\net9.0\Casting_StringFormatiing_Converting.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\obj\Debug\net9.0\Casting_StringFormatiing_Converting.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\obj\Debug\net9.0\Casting_StringFormatiing_Converting.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\bin\Debug\net9.0\Casting_StringFormatiing_Converting.exe
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\bin\Debug\net9.0\Casting_StringFormatiing_Converting.deps.json
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\bin\Debug\net9.0\Casting_StringFormatiing_Converting.runtimeconfig.json
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\bin\Debug\net9.0\Casting_StringFormatiing_Converting.dll
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\bin\Debug\net9.0\Casting_StringFormatiing_Converting.pdb
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\obj\Debug\net9.0\Casting_StringFormatiing_Converting.dll
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\obj\Debug\net9.0\refint\Casting_StringFormatiing_Converting.dll
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\obj\Debug\net9.0\Casting_StringFormatiing_Converting.pdb
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\obj\Debug\net9.0\Casting_StringFormatiing_Converting.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\Casting_StringFormatiing_Converting\obj\Debug\net9.0\ref\Casting_StringFormatiing_Converting.dll
