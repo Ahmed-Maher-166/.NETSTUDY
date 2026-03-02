@@ -1,0 +1,11 @@
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\bin\Debug\net10.0\ClassLibraryCommen.deps.json
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\bin\Debug\net10.0\ClassLibraryCommen.dll
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\bin\Debug\net10.0\ClassLibraryCommen.pdb
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\obj\Debug\net10.0\ClassLibraryCommen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\obj\Debug\net10.0\ClassLibraryCommen.AssemblyInfoInputs.cache
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\obj\Debug\net10.0\ClassLibraryCommen.AssemblyInfo.cs
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\obj\Debug\net10.0\ClassLibraryCommen.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\obj\Debug\net10.0\ClassLibraryCommen.dll
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\obj\Debug\net10.0\refint\ClassLibraryCommen.dll
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\obj\Debug\net10.0\ClassLibraryCommen.pdb
+C:\Users\NoteBook\Desktop\55\ClassLibraryCommen\ClassLibraryCommen\obj\Debug\net10.0\ref\ClassLibraryCommen.dll

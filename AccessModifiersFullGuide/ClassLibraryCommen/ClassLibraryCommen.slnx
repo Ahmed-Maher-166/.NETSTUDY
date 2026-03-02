@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ClassLibraryCommen/ClassLibraryCommen.csproj" />
+  <Project Path="CommenProject/CommenProject.csproj" />
+  <Project Path="Project/Project.csproj" />
+</Solution>

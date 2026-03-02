@@ -1,0 +1,11 @@
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\bin\Debug\net9.0\MyCommen.deps.json
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\bin\Debug\net9.0\MyCommen.dll
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\bin\Debug\net9.0\MyCommen.pdb
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\obj\Debug\net9.0\MyCommen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\obj\Debug\net9.0\MyCommen.AssemblyInfoInputs.cache
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\obj\Debug\net9.0\MyCommen.AssemblyInfo.cs
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\obj\Debug\net9.0\MyCommen.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\obj\Debug\net9.0\MyCommen.dll
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\obj\Debug\net9.0\refint\MyCommen.dll
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\obj\Debug\net9.0\MyCommen.pdb
+C:\Users\NoteBook\Desktop\55\MyCommen\MyCommen\obj\Debug\net9.0\ref\MyCommen.dll
