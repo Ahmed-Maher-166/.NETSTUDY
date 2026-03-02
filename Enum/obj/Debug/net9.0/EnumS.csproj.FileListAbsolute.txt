@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\Enum\bin\Debug\net9.0\EnumS.exe
+C:\Users\ahmed\source\repos\Enum\bin\Debug\net9.0\EnumS.deps.json
+C:\Users\ahmed\source\repos\Enum\bin\Debug\net9.0\EnumS.runtimeconfig.json
+C:\Users\ahmed\source\repos\Enum\bin\Debug\net9.0\EnumS.dll
+C:\Users\ahmed\source\repos\Enum\bin\Debug\net9.0\EnumS.pdb
+C:\Users\ahmed\source\repos\Enum\obj\Debug\net9.0\EnumS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Enum\obj\Debug\net9.0\EnumS.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Enum\obj\Debug\net9.0\EnumS.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Enum\obj\Debug\net9.0\EnumS.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Enum\obj\Debug\net9.0\EnumS.dll
+C:\Users\ahmed\source\repos\Enum\obj\Debug\net9.0\refint\EnumS.dll
+C:\Users\ahmed\source\repos\Enum\obj\Debug\net9.0\EnumS.pdb
+C:\Users\ahmed\source\repos\Enum\obj\Debug\net9.0\EnumS.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\Enum\obj\Debug\net9.0\ref\EnumS.dll
