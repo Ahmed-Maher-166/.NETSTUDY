@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+C:\Users\ahmed\source\repos\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+C:\Users\ahmed\source\repos\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+C:\Users\ahmed\source\repos\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+C:\Users\ahmed\source\repos\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+C:\Users\ahmed\source\repos\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+C:\Users\ahmed\source\repos\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+C:\Users\ahmed\source\repos\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+C:\Users\ahmed\source\repos\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll

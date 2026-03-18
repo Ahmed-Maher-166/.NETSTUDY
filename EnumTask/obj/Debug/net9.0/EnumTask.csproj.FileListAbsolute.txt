@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\EnumTask\bin\Debug\net9.0\EnumTask.exe
+C:\Users\ahmed\source\repos\EnumTask\bin\Debug\net9.0\EnumTask.deps.json
+C:\Users\ahmed\source\repos\EnumTask\bin\Debug\net9.0\EnumTask.runtimeconfig.json
+C:\Users\ahmed\source\repos\EnumTask\bin\Debug\net9.0\EnumTask.dll
+C:\Users\ahmed\source\repos\EnumTask\bin\Debug\net9.0\EnumTask.pdb
+C:\Users\ahmed\source\repos\EnumTask\obj\Debug\net9.0\EnumTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\EnumTask\obj\Debug\net9.0\EnumTask.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\EnumTask\obj\Debug\net9.0\EnumTask.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\EnumTask\obj\Debug\net9.0\EnumTask.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\EnumTask\obj\Debug\net9.0\EnumTask.dll
+C:\Users\ahmed\source\repos\EnumTask\obj\Debug\net9.0\refint\EnumTask.dll
+C:\Users\ahmed\source\repos\EnumTask\obj\Debug\net9.0\EnumTask.pdb
+C:\Users\ahmed\source\repos\EnumTask\obj\Debug\net9.0\EnumTask.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\EnumTask\obj\Debug\net9.0\ref\EnumTask.dll
