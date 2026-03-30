@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\Inhertaince\bin\Debug\net9.0\Inhertaince.exe
+C:\Users\ahmed\source\repos\Inhertaince\bin\Debug\net9.0\Inhertaince.deps.json
+C:\Users\ahmed\source\repos\Inhertaince\bin\Debug\net9.0\Inhertaince.runtimeconfig.json
+C:\Users\ahmed\source\repos\Inhertaince\bin\Debug\net9.0\Inhertaince.dll
+C:\Users\ahmed\source\repos\Inhertaince\bin\Debug\net9.0\Inhertaince.pdb
+C:\Users\ahmed\source\repos\Inhertaince\obj\Debug\net9.0\Inhertaince.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Inhertaince\obj\Debug\net9.0\Inhertaince.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Inhertaince\obj\Debug\net9.0\Inhertaince.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Inhertaince\obj\Debug\net9.0\Inhertaince.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Inhertaince\obj\Debug\net9.0\Inhertaince.dll
+C:\Users\ahmed\source\repos\Inhertaince\obj\Debug\net9.0\refint\Inhertaince.dll
+C:\Users\ahmed\source\repos\Inhertaince\obj\Debug\net9.0\Inhertaince.pdb
+C:\Users\ahmed\source\repos\Inhertaince\obj\Debug\net9.0\Inhertaince.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\Inhertaince\obj\Debug\net9.0\ref\Inhertaince.dll
